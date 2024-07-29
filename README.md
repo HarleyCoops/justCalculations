@@ -1,4 +1,4 @@
-# justCalculations: Your Edge in Exam Preparation
+# justCalculations: The Calculation Edge in CFA Preparation
 
 ## Overview
 justCalculations is a supplemental tool designed to help CFA and FRM candidates master the calculations required for their exams. It provides step-by-step breakdowns of complex calculations, detailed keystroke guides for approved calculators, and practice questions designed to enhance problem-solving skills under time pressure.
